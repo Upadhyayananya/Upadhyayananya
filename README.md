@@ -6,3 +6,7 @@ The “Online Movie Ticket  Booking System “ has been introduced to overcome t
 
 Our project is aimed at developing an online ticket reservation system for cinema halls in an internet based application that can be accessed throughout the net and can be accessed by anyone who has a net connection .
 
+OBJECTIVE 
+
+To provide anytime anywhere services for the customers to book their movie  tickets.
+To save time to book tickets at the cinema halls, and reduce tension about availability of seat and all.
