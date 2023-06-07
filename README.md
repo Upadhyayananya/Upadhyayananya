@@ -10,3 +10,6 @@ OBJECTIVE
 
 To provide anytime anywhere services for the customers to book their movie  tickets.
 To save time to book tickets at the cinema halls, and reduce tension about availability of seat and all.
+
+CONTRIBUTION
+Shriyatha- Done coding 
