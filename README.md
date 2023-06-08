@@ -1,6 +1,6 @@
+REPOSITORY
 
-
-ABOUT PROJECT.
+ABOUT PROJECT.(BOOKMYSHOW)
 
 The “Online Movie Ticket  Booking System “ has been introduced to overcome the problem prevailing in the practising manual system
 
@@ -12,4 +12,5 @@ To provide anytime anywhere services for the customers to book their movie  tick
 To save time to book tickets at the cinema halls, and reduce tension about availability of seat and all.
 
 CONTRIBUTION
-Shriyatha- Done coding 
+
+Shriyatha- proposed the idea of making this movie ticket booking system. Coded the initial part 
