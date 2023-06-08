@@ -32,6 +32,8 @@ In making of report.
 
 CONTRIBUTORS github account 
 Sathwika - https://github.com/sathwikagoli
-Sriyatha - 
+Sriyatha - https://github.com/Shriyatha10
+Ananya - 
+https://github.com/upadhyayananya
 
 
