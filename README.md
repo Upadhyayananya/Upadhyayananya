@@ -13,4 +13,22 @@ To save time to book tickets at the cinema halls, and reduce tension about avail
 
 CONTRIBUTION
 
-Shriyatha- proposed the idea of making this movie ticket booking system. Coded the initial part 
+Shriyatha- Proposed the idea of making this movie ticket booking system. 
+Coded for Class CinemaConnect , functions, etc . Implemented on the errors .
+
+Methodology 
+
+We have imported libraries like re , time , sys .Used class like Movie , payment gateway,theater. In class we included attributes for seat availability, no. of tickets etc.
+
+
+Ananya - Done coding for  the payment process of the system for booking tickets .
+In making of report 
+Done repository on read.me file.
+
+Sathwika - Done coding by giving options for the whole code by adding attributes.
+In making of report.
+
+CONTRIBUTORS github account 
+Sriyatha - 
+
+
